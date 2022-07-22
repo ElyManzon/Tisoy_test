@@ -1,0 +1,812 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+322;PRC;Welfare;Ready to Eat Meals;Biscuit;1740;174002;;Finished;packs;109
+5;PRC;Health;Health;Blood Pressure;562;56216;Balogo;Finished;individuals;4
+49;PRC;Health;Health;Blood Pressure;516;51612;;Finished;individuals;7
+145;PRC;Health;Health;Blood Pressure;410;41001;;Finished;individuals;30
+194;PRC;Health;Health;Blood Pressure;1667;166701;;Finished;individuals;42
+94;GRC;Relief;Cash for Shelter;CfW: Php 500;520;52004;Camburo;Finished;individuals;19
+96;GRC;Relief;Cash for Shelter;CfW: Php 500;520;52004;Maysuram;Finished;individuals;20
+97;GRC;Relief;Cash for Shelter;CfW: Php 500;520;52004;Guiamlong;Finished;individuals;20
+98;GRC;Relief;Cash for Shelter;CfW: Php 500;520;52004;Hitoma;Finished;individuals;20
+99;GRC;Relief;Cash for Shelter;CfW: Php 500;520;52004;Sabangan;Finished;individuals;20
+6;PRC;Welfare;PSS;Child Friendly Activities;562;56216;Brgy. Balogo;Finished;individuals;150
+29;PRC;Welfare;PSS;Child Friendly Activities;562;56207;Brgy Ogod;Finished;individuals;6
+30;PRC;Welfare;PSS;Child Friendly Activities;562;56207;Brgy Rawis;Finished;individuals;13
+33;PRC;Welfare;PSS;Child Friendly Activities;562;56207;Brgy Ogod;Finished;individuals;15
+41;PRC;Welfare;PSS;Child Friendly Activities;562;56212;Brgy Banuang Daan;Finished;individuals;2
+45;PRC;Welfare;PSS;Child Friendly Activities;562;56214;BrgyTupaz;Finished;individuals;168
+59;PRC;Welfare;PSS;Child Friendly Activities;562;56212;Brgy Camcaman;Finished;individuals;55
+60;PRC;Welfare;PSS;Child Friendly Activities;562;56212;Brgy Gadgaron;Finished;individuals;84
+69;PRC;Welfare;PSS;Child Friendly Activities;562;56216;Brgy Buenavista;Finished;individuals;74
+70;PRC;Welfare;PSS;Child Friendly Activities;562;56211;Brgy Aguada Norte;Finished;individuals;125
+86;PRC;Welfare;PSS;Child Friendly Activities;562;56203;Brgy JP Laurel;Finished;individuals;155
+87;PRC;Welfare;PSS;Child Friendly Activities;562;56203;Brgy Zone 7;Finished;individuals;210
+100;PRC;Welfare;PSS;Child Friendly Activities;562;56216;Brgy. Caricaran;Finished;individuals;374
+115;PRC;Welfare;PSS;Child Friendly Activities;562;56212;Matnog Church;Finished;individuals;19
+147;PRC;Welfare;PSS;Child Friendly Activities;505;50504;Tandarora;Finished;individuals;31
+176;PRC;Welfare;PSS;Child Friendly Activities;541;54107;San Ramon;Finished;individuals;36
+184;PRC;Welfare;PSS;Child Friendly Activities;541;54107;Penafrancia;Finished;individuals;41
+222;PRC;Welfare;PSS;Child Friendly Activities;517;51709;Sitio Gogon;Finished;individuals;46
+224;PRC;Welfare;PSS;Child Friendly Activities;541;54107;Quezon;Finished;individuals;47
+256;PRC;Welfare;PSS;Child Friendly Activities;541;54107;Poblacion 2;Finished;individuals;64
+308;PRC;Welfare;PSS;Child Friendly Activities;517;51707;Castillo;Finished;individuals;100
+317;PRC;Welfare;PSS;Child Friendly Activities;541;54107;Osmena;Finished;individuals;106
+318;PRC;Welfare;PSS;Child Friendly Activities;541;54107;Osmena;Finished;individuals;106
+348;PRC;Welfare;PSS;Child Friendly Activities;541;54120;Iniwaran;Finished;individuals;150
+352;PRC;Welfare;PSS;Child Friendly Activities;541;54120;Busing;Finished;individuals;150
+353;PRC;Welfare;PSS;Child Friendly Activities;541;54120;Boca Chica;Finished;individuals;150
+1;PRC;Health;Health;First Aid;516;51612;;Finished;individuals;1
+2;PRC;Health;Health;First Aid;562;56216;Balogo;Finished;individuals;1
+4;PRC;Health;Health;First Aid;410;41001;;Finished;individuals;1
+17;PRC;Health;Health;First Aid;541;54111;;Finished;individuals;2
+392;PRC;Health;Health;First Aid;505;50505;Bautista;Finished;individuals;1
+37;PRC;Relief;Food Items;Food Item ( Standard);562;56207;Brgy Ogod;Finished;families;130
+38;PRC;Relief;Food Items;Food Item ( Standard);562;56207;Brgy Rawis;Finished;families;135
+85;PRC;Relief;Food Items;Food Item ( Standard);1043;104304;Maningcol;Finished;families;15
+92;PRC;Relief;Food Items;Food Item ( Standard);1759;175910;Cobrador;Finished;families;18
+123;PRC;Relief;Food Items;Food Item ( Standard);1759;175910;Lanos;Finished;families;25
+144;PRC;Relief;Food Items;Food Item ( Standard);1751;175102;New Dagupan;Finished;families;29
+146;PRC;Relief;Food Items;Food Item ( Standard);1751;175102;Tanyag;Finished;families;30
+178;PRC;Relief;Food Items;Food Item ( Standard);520;52009;JMA Tucao;Finished;families;38
+181;PRC;Relief;Food Items;Food Item ( Standard);1043;104304;Marfrancisco;Finished;families;40
+207;PRC;Relief;Food Items;Food Item ( Standard);520;52009;Siay;Finished;families;43
+221;PRC;Relief;Food Items;Food Item ( Standard);1043;104304;Maliangcog;Finished;families;45
+245;PRC;Relief;Food Items;Food Item ( Standard);1759;175910;Alad;Finished;families;57
+272;PRC;Relief;Food Items;Food Item ( Standard);520;52009;Tobrehon;Finished;families;78
+277;PRC;Relief;Food Items;Food Item ( Standard);1751;175102;Poblacion;Finished;families;84
+321;PRC;Relief;Food Items;Food Item ( Standard);1751;175109;Sta. Lucia;Finished;families;109
+341;PRC;Relief;Food Items;Food Item ( Standard);1751;175109;San Nicola;Finished;families;130
+342;PRC;Relief;Food Items;Food Item ( Standard);1751;175109;San Nicola;Finished;families;130
+360;PRC;Relief;Food Items;Food Item ( Standard);1751;175109;Ligaya;Finished;families;190
+366;PRC;Relief;Food Items;Food Item ( Standard);517;51703;Santiago;Finished;families;208
+377;PRC;Relief;Food Items;Food Item ( Standard);1751;175109;Sta. Lucia;Finished;families;270
+772;PRC;Relief;Food Items;Food Item ( Standard);520;52009;San Juan;done;Families;116
+7;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56216;Brgy Bibincahan;Finished;meals;211
+8;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56216;Brgy. Balogo;Finished;meals;311
+47;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56214;BrgyTupaz;Finished;meals;595
+61;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56212;Brgy Camcaman;Finished;meals;101
+62;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56212;Brgy Gadgaron;Finished;meals;160
+71;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56211;Brgy Aguada Norte;Finished;meals;235
+72;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56216;Brgy Buenavista;Finished;meals;247
+88;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56203;Brgy Zone 7;Finished;meals;235
+89;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56203;Brgy JP Laurel;Finished;meals;240
+102;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56216;Brgy. Caricaran;Finished;meals;414
+116;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56212;Matnog Church;Finished;meals;51
+118;PRC;Welfare;Ready to Eat Meals;Hotmeals;562;56212;Matnog Church;Finished;meals;62
+168;PRC;Welfare;Ready to Eat Meals;Hotmeals;1043;104301;;Finished;meals;35
+175;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54107;San Ramon;Finished;meals;36
+183;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54107;Penafrancia;Finished;meals;41
+223;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54107;Quezon;Finished;meals;47
+225;PRC;Welfare;Ready to Eat Meals;Hotmeals;517;51724;Conception Grande;Finished;meals;48
+244;PRC;Welfare;Ready to Eat Meals;Hotmeals;746;74623;;Finished;meals;56
+255;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54107;Poblacion 2;Finished;meals;64
+258;PRC;Welfare;Ready to Eat Meals;Hotmeals;517;51724;Conception Grande;Finished;meals;65
+285;PRC;Welfare;Ready to Eat Meals;Hotmeals;1751;175110;;Finished;meals;90
+316;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54107;Osmena;Finished;meals;106
+320;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54107;Osmena;Finished;meals;106
+323;PRC;Welfare;Ready to Eat Meals;Hotmeals;1740;174001;;Finished;meals;114
+330;PRC;Welfare;Ready to Eat Meals;Hotmeals;746;74623;;Finished;meals;119
+331;PRC;Welfare;Ready to Eat Meals;Hotmeals;1043;104301;;Finished;meals;120
+347;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54120;Iniwaran;Finished;meals;150
+350;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54120;Boca Chica;Finished;meals;150
+351;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54120;Busing;Finished;meals;150
+354;PRC;Welfare;Ready to Eat Meals;Hotmeals;1751;175110;;Finished;meals;150
+355;PRC;Welfare;Ready to Eat Meals;Hotmeals;722;72201;;Finished;meals;151
+357;PRC;Welfare;Ready to Eat Meals;Hotmeals;1740;174001;;Finished;meals;157
+363;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54118;Nursery;Finished;meals;200
+364;PRC;Welfare;Ready to Eat Meals;Hotmeals;541;54118;Baybay dagat;Finished;meals;200
+372;PRC;Welfare;Ready to Eat Meals;Hotmeals;410;41005;Brgy. Bolbok;Finished;meals;237
+376;PRC;Welfare;Ready to Eat Meals;Hotmeals;520;52011;;Finished;meals;267
+378;PRC;Welfare;Ready to Eat Meals;Hotmeals;434;43401;;Finished;meals;289
+379;PRC;Welfare;Ready to Eat Meals;Hotmeals;505;50506;Bigaa;Finished;meals;300
+380;PRC;Welfare;Ready to Eat Meals;Hotmeals;1751;175105;;Finished;meals;300
+381;PRC;Welfare;Ready to Eat Meals;Hotmeals;520;52011;;Finished;meals;305
+382;PRC;Welfare;Ready to Eat Meals;Hotmeals;517;51709;Sitio Gogon;Finished;meals;310
+384;PRC;Welfare;Ready to Eat Meals;Hotmeals;1740;174001;;Finished;meals;370
+387;PRC;Welfare;Ready to Eat Meals;Hotmeals;1751;175105;;Finished;meals;415
+391;PRC;Welfare;Ready to Eat Meals;Hotmeals;517;51707;Castillo;Finished;meals;644
+752;PRC;Welfare;Ready to Eat Meals;Hotmeals;848;84804;San Luis;Finished;meals;334
+753;PRC;Welfare;Ready to Eat Meals;Hotmeals;848;84804;Aguin;Finished;meals;379
+754;PRC;Welfare;Ready to Eat Meals;Hotmeals;848;84804;Landusan;Finished;meals;572
+53;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;3;Finished;families;7
+77;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;4;Finished;families;13
+124;IFRC;Relief;Non Food Items;Hygiene Kit;562;56212;Matnog Church;Finished;families;90
+128;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;2;Finished;families;27
+136;IFRC;Relief;Non Food Items;Hygiene Kit;562;56212;Matnog Church;Finished;families;115
+151;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;Buenavista;Finished;families;32
+155;IFRC;Relief;Non Food Items;Hygiene Kit;562;56213;Dao;Finished;families;21
+172;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;5;Finished;families;36
+180;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Siuton;Finished;families;11
+191;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Brgy. Cawit Proper;Finished;families;18
+192;IFRC;Relief;Non Food Items;Hygiene Kit;541;54107;Quezon;Finished;families;41
+197;IFRC;Relief;Non Food Items;Hygiene Kit;541;54107;Buyo;Finished;families;42
+198;IFRC;Relief;Non Food Items;Hygiene Kit;541;54107;Nazareno;Finished;families;17
+200;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54107;Nazareno;Finished;families;25
+211;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;Marigodon;Finished;families;43
+217;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;Banawan;Finished;families;44
+232;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;Caratagan;Finished;families;51
+241;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;Malidong;Finished;families;56
+249;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54107;San Ramon;Finished;families;69
+254;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Brgy. Pawik;Finished;families;24
+260;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54107;Poblacion 2;Finished;families;94
+265;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54120;Pinamasingan;Finished;families;61
+267;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54120;Penafrancia;Finished;families;61
+282;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;1;Finished;families;88
+288;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Brgy. Aguada Norte;Finished;families;29
+296;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54120;Laurente;Finished;families;92
+304;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Brgy. Caditaan;Finished;families;27
+313;IFRC;Relief;Non Food Items;Hygiene Kit;505;50513;Basicao;Finished;families;101
+325;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Salvacion;Finished;families;33
+332;PRC- IFRC;Relief;Non Food Items;Hygiene Kit;541;54120;Bocahica;Finished;families;120
+339;IFRC;Relief;Non Food Items;Hygiene Kit;562;56211;Brgy. Cawit Ext.;Finished;families;39
+365;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Cadandanan;Finished;families;2
+375;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Roxas;Finished;families;4
+395;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Cocok- Caditan;Finished;families;6
+423;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Palale;Finished;families;9
+430;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Zone 7;Finished;families;23
+437;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Daganas;Finished;families;27
+444;NZAid;Relief;Non Food Items;Hygiene Kit;562;56203;Lajong;Finished;families;96
+452;NZAid;Relief;Non Food Items;Hygiene Kit;1043;104302;Conrazon;Finished;families;115
+457;NZAid;Relief;Non Food Items;Hygiene Kit;1043;104302;Poblacion;Finished;families;43
+462;AusDFAT;Relief;Non Food Items;Hygiene Kit;562;56213;San Rafael;Finished;families;120
+468;IFRC;Relief;Non Food Items;Hygiene Kit;562;56213;Banuyo;Finished;families;7
+474;NZAid;Relief;Non Food Items;Hygiene Kit;562;56213;Banuyo;Finished;families;20
+480;NZAid;Relief;Non Food Items;Hygiene Kit;562;56213;Marifosque;Finished;families;46
+486;NZAid;Relief;Non Food Items;Hygiene Kit;562;56213;Binanuahan;Finished;families;29
+492;IFRC;Relief;Non Food Items;Hygiene Kit;562;56213;Inapugan;Finished;families;72
+498;AusDFAT;Relief;Non Food Items;Hygiene Kit;562;56213;Dapdap;Finished;families;74
+504;IFRC;Relief;Non Food Items;Hygiene Kit;562;56213;Brgy Dao;Finished;families;3
+510;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51723;Lourdes Young;Finished;families;80
+516;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Santa Lotgarda;Finished;families;1
+522;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;New Poblacion;Finished;families;4
+528;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Barcelonita;Finished;families;6
+534;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;San Pedro;Finished;families;7
+540;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Biong;Finished;families;4
+546;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Camagong;Finished;families;19
+552;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Castillo;Finished;families;34
+558;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Pandan;Finished;families;27
+564;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51707;Sta Cruz;Finished;families;6
+570;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51725;Villaflorida;Finished;families;31
+576;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51722;Baliwag Viejo;Finished;families;9
+582;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51722;Irayang Sulong;Finished;families;4
+588;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51722;Malitbog;Finished;families;8
+594;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51722;Antipolo;Finished;families;6
+600;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51722;Manapao;Finished;families;5
+606;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Bahao;Finished;families;3
+612;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Sulpa;Finished;families;1
+618;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Vito;Finished;families;1
+624;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Boboan;Finished;families;4
+630;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Malaconini;Finished;families;3
+636;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Tandoc;Finished;families;1
+642;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;San Ramon;Finished;families;1
+648;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Salvacion;Finished;families;8
+654;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Poblacion;Finished;families;3
+660;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Penitan;Finished;families;5
+666;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Homestead;Finished;families;2
+672;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51735;Pamintan - Santillan;Finished;families;2
+678;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Malbong;Finished;families;13
+684;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Nabuat;Finished;families;3
+690;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Sampaloc;Finished;families;9
+696;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Cagbunga;Finished;families;2
+702;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Dahilig;Finished;families;1
+708;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Loob;Finished;families;4
+714;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51713;Poblacion 2;Finished;families;3
+720;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51709;Dugcal;Finished;families;27
+726;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51718;Ibid;Finished;families;19
+732;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51718;Labao;Finished;families;10
+738;AusDFAT;Relief;Non Food Items;Hygiene Kit;517;51718;Conception;Finished;families;14
+744;NZAid;Relief;Non Food Items;Hygiene Kit;1043;104302;Poblacion;Finished;families;43
+809;AusDFAT;Relief;Non Food Items;Hygiene Kit;1751;175101;;finished;families;200
+44;PRC;WASH;WASH;Hygiene Promotion;562;56214;BrgyTupaz;Finished;individuals;40
+68;PRC;WASH;WASH;Hygiene Promotion;562;56212;Brgy. Sta Isabel;Finished;individuals;20
+154;PRC;WASH;WASH;Hygiene Promotion;517;51723;Bustrac;Finished;individuals;50
+158;PRC;WASH;WASH;Hygiene Promotion;562;56212;Brgy Sta Isabel;Finished;individuals;202
+160;PRC;WASH;WASH;Hygiene Promotion;562;56203;Brgy Butag;Finished;individuals;78
+161;PRC;WASH;WASH;Hygiene Promotion;1740;174002;;Finished;individuals;34
+163;PRC;WASH;WASH;Hygiene Promotion;562;56212;Brgy Sta Isabel;Finished;individuals;44
+177;PRC;WASH;WASH;Hygiene Promotion;541;54107;San Ramon;Finished;individuals;36
+185;PRC;WASH;WASH;Hygiene Promotion;541;54107;Quezon;Finished;individuals;41
+196;PRC;WASH;WASH;Hygiene Promotion;541;54120;Nazareno;Finished;individuals;42
+226;PRC;WASH;WASH;Hygiene Promotion;517;51703;Poblacion;Finished;individuals;317
+227;PRC;WASH;WASH;Hygiene Promotion;517;51703;Poblacion;Finished;individuals;240
+228;PRC;WASH;WASH;Hygiene Promotion;517;51723;San Fancisco;Finished;individuals;23
+247;PRC;WASH;WASH;Hygiene Promotion;541;54107;Penafrancia;Finished;individuals;61
+257;PRC;WASH;WASH;Hygiene Promotion;541;54107;Poblacion 2;Finished;individuals;64
+266;PRC;WASH;WASH;Hygiene Promotion;541;54120;Pinamasingan;Finished;individuals;74
+273;PRC;WASH;WASH;Hygiene Promotion;541;54107;Osmena;Finished;individuals;78
+319;PRC;WASH;WASH;Hygiene Promotion;541;54107;Osmena;Finished;individuals;106
+345;PRC;WASH;WASH;Hygiene Promotion;517;51703;Poblacion;Finished;individuals;100
+349;PRC;WASH;WASH;Hygiene Promotion;541;54120;;Finished;individuals;150
+368;NZAid;WASH;WASH;Hygiene Promotion;562;56203;Cadandanan;Finished;individuals;2
+371;PRC;WASH;WASH;Hygiene Promotion;505;50513;Basicao;Finished;individuals;235
+385;NZAid;WASH;WASH;Hygiene Promotion;562;56203;Roxas;Finished;individuals;4
+388;PRC;WASH;WASH;Hygiene Promotion;517;51703;Santiago;Finished;individuals;148
+397;NZAid;WASH;WASH;Hygiene Promotion;562;56203;Cocok- Caditan;Finished;individuals;6
+425;IFRC;WASH;WASH;Hygiene Promotion;562;56203;Palale;Finished;individuals;9
+432;IFRC;WASH;WASH;Hygiene Promotion;562;56203;Zone 7;Finished;individuals;23
+439;IFRC;WASH;WASH;Hygiene Promotion;562;56203;Daganas;Finished;individuals;27
+446;IFRC;WASH;WASH;Hygiene Promotion;562;56203;Lajong;Finished;individuals;96
+448;PRC;WASH;WASH;Hygiene Promotion;517;51716;San Nicolas;Finished;individuals;32
+449;PRC;WASH;WASH;Hygiene Promotion;517;51716;Banao;Finished;individuals;38
+54;IFRC;Relief;Non Food Items;Jerry Can;505;50513;3;Finished;pcs;14
+78;IFRC;Relief;Non Food Items;Jerry Can;505;50513;4;Finished;pcs;26
+129;IFRC;Relief;Non Food Items;Jerry Can;505;50513;2;Finished;pcs;54
+131;IFRC;Relief;Non Food Items;Jerry Can;562;56212;Matnog Church;Finished;pcs;180
+138;IFRC;Relief;Non Food Items;Jerry Can;562;56212;Matnog Church;Finished;pcs;230
+152;IFRC;Relief;Non Food Items;Jerry Can;505;50513;Buenavista;Finished;pcs;64
+156;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Brgy Dao;Finished;pcs;42
+173;IFRC;Relief;Non Food Items;Jerry Can;505;50513;5;Finished;pcs;72
+186;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Siuton;Finished;pcs;22
+199;IFRC;Relief;Non Food Items;Jerry Can;541;54107;Buyo;Finished;pcs;84
+201;IFRC;Relief;Non Food Items;Jerry Can;541;54107;Nazareno;Finished;pcs;34
+202;PRC- IFRC;Relief;Non Food Items;Jerry Can;541;54107;Nazareno;Finished;pcs;50
+212;IFRC;Relief;Non Food Items;Jerry Can;505;50513;Marigodon;Finished;pcs;86
+218;IFRC;Relief;Non Food Items;Jerry Can;505;50513;Banawan;Finished;pcs;88
+220;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Brgy. Cawit Proper;Finished;pcs;36
+233;IFRC;Relief;Non Food Items;Jerry Can;505;50513;Caratagan;Finished;pcs;102
+242;IFRC;Relief;Non Food Items;Jerry Can;505;50513;Malidong;Finished;pcs;112
+250;PRC- IFRC;Relief;Non Food Items;Jerry Can;541;54107;San Ramon;Finished;pcs;138
+264;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Brgy. Pawik;Finished;pcs;48
+268;PRC- IFRC;Relief;Non Food Items;Jerry Can;541;54120;Penafrancia;Finished;pcs;122
+275;PRC- IFRC;Relief;Non Food Items;Jerry Can;541;54120;Pinamasingan;Finished;pcs;148
+283;IFRC;Relief;Non Food Items;Jerry Can;505;50513;1;Finished;pcs;176
+289;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Brgy. Aguada Norte;Finished;pcs;58
+297;PRC- IFRC;Relief;Non Food Items;Jerry Can;541;54120;Laurente;Finished;pcs;184
+305;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Brgy. Caditaan;Finished;pcs;54
+314;IFRC;Relief;Non Food Items;Jerry Can;505;50513;Basicao;Finished;pcs;202
+326;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Salvacion;Finished;pcs;66
+333;PRC- IFRC;Relief;Non Food Items;Jerry Can;541;54120;Bocahica;Finished;pcs;240
+340;IFRC;Relief;Non Food Items;Jerry Can;562;56211;Brgy. Cawit Ext.;Finished;pcs;78
+367;NZAid;Relief;Non Food Items;Jerry Can;562;56203;Cadandanan;Finished;pcs;4
+383;NZAid;Relief;Non Food Items;Jerry Can;562;56203;Roxas;Finished;pcs;8
+396;NZAid;Relief;Non Food Items;Jerry Can;562;56203;Cocok- Caditan;Finished;pcs;12
+424;IFRC;Relief;Non Food Items;Jerry Can;562;56203;Palale;Finished;pcs;18
+431;IFRC;Relief;Non Food Items;Jerry Can;562;56203;Zone 7;Finished;pcs;46
+438;IFRC;Relief;Non Food Items;Jerry Can;562;56203;Daganas;Finished;pcs;54
+445;IFRC;Relief;Non Food Items;Jerry Can;562;56203;Lajong;Finished;pcs;192
+453;NZAid;Relief;Non Food Items;Jerry Can;1043;104302;Conrazon;Finished;pcs;230
+458;NZAid;Relief;Non Food Items;Jerry Can;1043;104302;Poblacion;Finished;pcs;86
+463;AusDFAT;Relief;Non Food Items;Jerry Can;562;56213;San Rafael;Finished;pcs;240
+469;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Banuyo;Finished;pcs;14
+475;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Banoyo;Finished;pcs;40
+481;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Marifosque;Finished;pcs;92
+487;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Binanuahan;Finished;pcs;58
+493;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Inabugan;Finished;pcs;144
+499;AusDFAT;Relief;Non Food Items;Jerry Can;562;56213;Dapdap;Finished;pcs;148
+505;IFRC;Relief;Non Food Items;Jerry Can;562;56213;Brgy Dao;Finished;pcs;6
+511;AusDFAT;Relief;Non Food Items;Jerry Can;517;51723;Lourdes Young;Finished;pcs;160
+517;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Santa Lotgarda;Finished;pcs;2
+523;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;New Poblacion;Finished;pcs;8
+529;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Barcelonita;Finished;pcs;12
+535;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;San Pedro;Finished;pcs;14
+541;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Biong;Finished;pcs;8
+547;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Camagong;Finished;pcs;38
+553;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Castillo;Finished;pcs;68
+559;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Pandan;Finished;pcs;54
+565;AusDFAT;Relief;Non Food Items;Jerry Can;517;51707;Sta Cruz;Finished;pcs;12
+571;AusDFAT;Relief;Non Food Items;Jerry Can;517;51725;Villaflorida;Finished;pcs;62
+577;AusDFAT;Relief;Non Food Items;Jerry Can;517;51722;Baliwag Viejo;Finished;pcs;18
+583;AusDFAT;Relief;Non Food Items;Jerry Can;517;51722;Irayang Sulong;Finished;pcs;8
+589;AusDFAT;Relief;Non Food Items;Jerry Can;517;51722;Malitbog;Finished;pcs;16
+595;AusDFAT;Relief;Non Food Items;Jerry Can;517;51722;Antipolo;Finished;pcs;12
+601;AusDFAT;Relief;Non Food Items;Jerry Can;517;51722;Manapao;Finished;pcs;10
+607;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Bahao;Finished;pcs;6
+613;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Sulpa;Finished;pcs;2
+619;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Vito;Finished;pcs;2
+625;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Boboan;Finished;pcs;8
+631;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Malaconini;Finished;pcs;6
+637;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Tandoc;Finished;pcs;2
+643;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;San Ramon;Finished;pcs;2
+649;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Salvacion;Finished;pcs;16
+655;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Poblacion;Finished;pcs;16
+661;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Penitan;Finished;pcs;10
+667;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Homestead;Finished;pcs;4
+673;AusDFAT;Relief;Non Food Items;Jerry Can;517;51735;Pamintan - Santillan;Finished;pcs;4
+679;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Malbong;Finished;pcs;26
+685;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Nabuat;Finished;pcs;6
+691;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Sampaloc;Finished;pcs;18
+697;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Cagbunga;Finished;pcs;4
+703;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Dahilig;Finished;pcs;2
+709;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Loob;Finished;pcs;8
+715;AusDFAT;Relief;Non Food Items;Jerry Can;517;51713;Poblacion 2;Finished;pcs;6
+721;AusDFAT;Relief;Non Food Items;Jerry Can;517;51709;Dugcal;Finished;pcs;54
+727;AusDFAT;Relief;Non Food Items;Jerry Can;517;51718;Ibid;Finished;pcs;38
+733;AusDFAT;Relief;Non Food Items;Jerry Can;517;51718;Labao;Finished;pcs;20
+739;AusDFAT;Relief;Non Food Items;Jerry Can;517;51718;Conception;Finished;pcs;28
+745;NZAid;Relief;Non Food Items;Jerry Can;1043;104302;Poblacion;Finished;pcs;28
+810;AusDFAT;Relief;Non Food Items;Jerry Can;1751;175101;;finished;pcs;400
+755;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;848;84804;Aguin;Finished;families;26
+756;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;848;84804;Landusan;Finished;families;63
+757;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;848;84804;Sagaosawan;Finished;families;10
+758;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;848;84804;San Luis;Finished;families;164
+759;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;848;84804;Sawang;Finished;families;32
+760;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1751;175109;General Emilio Aguinaldo;Finished;families;150
+761;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1751;175109;San Nicolas;Finished;families;218
+762;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1751;175109;Poblacion;Finished;families;130
+763;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1043;104304;Pili;Finished;families;159
+764;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1043;104304;Lumambayan;Finished;families;185
+765;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1043;104304;Sabang;Finished;families;139
+766;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;562;56214;Gogon;Finished;families;283
+767;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;562;56214;San Rafael;Finished;families;113
+768;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;562;56214;Manlabong;Finished;families;159
+769;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;562;56214;Ulag;Finished;families;176
+770;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;562;56215;San Rafael;Finished;families;188
+771;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;562;56215;La Ezperanza;Finished;families;76
+773;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Aurora;Finished;families;3
+774;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Bagacay;Finished;families;13
+775;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Bautista;Finished;families;8
+776;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Cabraran;Finished;families;60
+777;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Calzada;Finished;families;5
+778;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Del Rosario;Finished;families;8
+779;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Estrella;Finished;families;11
+780;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Florista;Finished;families;12
+781;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Mabini;Finished;families;5
+782;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Mamlad;Finished;families;17
+783;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Maogog;Finished;families;18
+784;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Plaza;Finished;families;1
+785;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Quintinday;Finished;families;6
+786;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Rizal;Finished;families;19
+787;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Salvacion;Finished;families;5
+788;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;San Isidro;Finished;families;10
+789;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;San Roque;Finished;families;92
+790;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;San Vicente;Finished;families;52
+791;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Sinagaran;Finished;families;2
+792;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;Villa Paz;Finished;families;15
+793;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;505;50505;White Deer;Finished;families;33
+794;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;541;54114;Guinhadap;Finished;families;93
+795;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;541;54114;Mac Arthur;Finished;families;154
+796;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;541;54114;Poblacion;Finished;families;98
+797;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;541;54114;Sto Niño;Finished;families;64
+798;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;541;54114;Togoron;Finished;families;63
+799;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175910;Mapula;Finished;families;41
+800;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175910;Sablayan;Finished;families;70
+801;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175910;Agbodia;Finished;families;41
+802;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175910;Li-O;Finished;families;32
+803;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175911;Sugod;Finished;families;113
+804;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175911;Cawayan;finished;families;84
+805;IFRC;Relief;Cash for Relief;MPCG: PHP 3500;1759;175904;Linao;finished;families;86
+3;PRC;Health;Health;Patient Transportation;505;50504;San Francisco;Finished;individuals;1
+16;PRC;Health;Health;Patient Transportation;410;41001;;Finished;individuals;1
+749;PRC;Welfare;PSS;PFA;848;84804;San Luis;Finished;individuals;38
+750;PRC;Welfare;PSS;PFA;848;84804;Aguin;Finished;individuals;32
+751;PRC;Welfare;PSS;PFA;848;84804;Landusan;Finished;individuals;32
+18;PRC;Welfare;PSS;Psychological First Aid;541;54111;Espinosa;Finished;individuals;2
+19;PRC;Welfare;PSS;Psychological First Aid;520;52001;;Finished;individuals;2
+20;PRC;Welfare;PSS;Psychological First Aid;562;56215;San Sebastian;Finished;individuals;2
+24;PRC;Welfare;PSS;Psychological First Aid;562;56209;;Finished;individuals;4
+25;PRC;Welfare;PSS;Psychological First Aid;562;56211;Aguada North;Finished;individuals;27
+34;PRC;Welfare;PSS;Psychological First Aid;562;56207;Brgy Ogod;Finished;individuals;15
+35;PRC;Welfare;PSS;Psychological First Aid;562;56207;Brgy Ogod;Finished;individuals;20
+36;PRC;Welfare;PSS;Psychological First Aid;562;56207;Brgy Ogod;Finished;individuals;127
+39;PRC;Welfare;PSS;Psychological First Aid;562;56207;Brgy Rawis;Finished;individuals;135
+42;PRC;Welfare;PSS;Psychological First Aid;562;56212;Brgy Banuang Daan;Finished;individuals;6
+43;PRC;Welfare;PSS;Psychological First Aid;562;56212;Brgy Gadgaron;Finished;individuals;8
+46;PRC;Welfare;PSS;Psychological First Aid;562;56214;BrgyTupaz;Finished;individuals;199
+48;PRC;Welfare;PSS;Psychological First Aid;562;56216;Brgy Buenavista;Finished;individuals;20
+56;PRC;Welfare;PSS;Psychological First Aid;562;56212;Brgy Gadgaron;Finished;individuals;10
+57;PRC;Welfare;PSS;Psychological First Aid;517;51709;Sitio Gogon;Finished;individuals;18
+58;PRC;Welfare;PSS;Psychological First Aid;562;56212;Brgy Camcaman;Finished;individuals;14
+67;PRC;Welfare;PSS;Psychological First Aid;562;56216;Brgy Buenavista;Finished;individuals;10
+82;PRC;Welfare;PSS;Psychological First Aid;517;51707;Castillo;Finished;individuals;14
+83;PRC;Welfare;PSS;Psychological First Aid;562;56203;Brgy Zone 7;Finished;individuals;13
+84;PRC;Welfare;PSS;Psychological First Aid;562;56203;Brgy JP Laurel;Finished;individuals;14
+93;PRC;Welfare;PSS;Psychological First Aid;517;51709;Sitio Gogon;Finished;individuals;18
+95;PRC;Welfare;PSS;Psychological First Aid;562;56216;Brgy. Caricaran;Finished;individuals;20
+101;PRC;Welfare;PSS;Psychological First Aid;505;50504;Tandarora;Finished;individuals;20
+117;PRC;Welfare;PSS;Psychological First Aid;562;56212;Matnog Church;Finished;individuals;51
+119;PRC;Welfare;PSS;Psychological First Aid;562;56212;Matnog Church;Finished;individuals;62
+278;PRC;Welfare;Ready to Eat Meals;Rice and Ulalam;505;50504;Maninila;Finished;meals;88
+390;PRC;Welfare;Ready to Eat Meals;Rice and Ulalam;517;51707;Castillo;Finished;meals;344
+31;GRC;Relief;Shelter;Shelter Strengthening Kit;516;51607;Brgy. 3;Finished;families;4
+32;GRC;Relief;Shelter;Shelter Strengthening Kit;516;51607;Brgy. 6;Finished;families;4
+51;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;3;Finished;families;7
+75;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;4;Finished;families;13
+121;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56212;Brgy Banuang Daan;Finished;families;90
+126;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;2;Finished;families;27
+134;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56212;Brgy.Gadgaron;Finished;families;115
+142;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Brgy Dao;Finished;families;21
+149;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;Buenavista;Finished;families;32
+166;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Siuton;Finished;families;11
+170;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;5;Finished;families;36
+189;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Brgy. Cawit Proper;Finished;families;18
+203;PRC- IFRC;Relief;Non Food Items;Sleeping Kit : Mats;541;54107;Buyo;Finished;families;42
+209;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;Marigodon;Finished;families;43
+215;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;Banawan;Finished;families;44
+230;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;Caratagan;Finished;families;51
+237;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Brgy. Pawik;Finished;families;24
+239;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;Malidong;Finished;families;56
+251;PRC- IFRC;Relief;Non Food Items;Sleeping Kit : Mats;541;54107;San Ramon;Finished;families;69
+261;PRC- IFRC;Relief;Non Food Items;Sleeping Kit : Mats;541;54107;Poblacion 3;Finished;families;94
+280;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;1;Finished;families;88
+286;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Brgy. Aguada Norte;Finished;families;29
+292;PRC- IFRC;Relief;Non Food Items;Sleeping Kit : Mats;541;54120;Pinamasingan;Finished;families;74
+298;PRC- IFRC;Relief;Non Food Items;Sleeping Kit : Mats;541;54120;Laurente;Finished;families;92
+302;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Brgy. Caditaan;Finished;families;27
+309;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Salvacion;Finished;families;33
+311;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;505;50513;Basicao;Finished;families;101
+329;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56211;Brgy. Cawit Ext.;Finished;families;39
+334;PRC- IFRC;Relief;Non Food Items;Sleeping Kit : Mats;541;54120;Bocahica;Finished;families;120
+359;NZAid;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Cadandanan;Finished;families;2
+370;NZAid;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Roxas;Finished;families;4
+389;NZAid;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Cocok- Caditan;Finished;families;6
+420;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Palale;Finished;families;9
+427;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Zone 7;Finished;families;23
+434;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Daganas;Finished;families;27
+441;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56203;Lajong;Finished;families;96
+454;NZAid;Relief;Non Food Items;Sleeping Kit : Mats;1752;175202;Conrazon;Finished;families;115
+459;NZAid;Relief;Non Food Items;Sleeping Kit : Mats;1752;175202;Poblacion;Finished;families;43
+464;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;San Rafael;Finished;families;120
+470;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Banuyo;Finished;families;7
+476;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Banoyo;Finished;families;20
+482;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Marifosque;Finished;families;46
+488;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Binanuahan;Finished;families;29
+494;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Inabugan;Finished;families;72
+500;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Dapdap;Finished;families;74
+506;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;562;56213;Brgy Dao;Finished;families;3
+512;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51723;Lourdes Young;Finished;families;80
+518;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Santa Lotgarda;Finished;families;1
+524;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;New Poblacion;Finished;families;4
+530;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Barcelonita;Finished;families;6
+536;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;San Pedro;Finished;families;7
+542;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Biong;Finished;families;4
+548;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Camagong;Finished;families;19
+554;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Castillo;Finished;families;34
+560;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Pandan;Finished;families;27
+566;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51707;Sta Cruz;Finished;families;6
+572;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51725;Villaflorida;Finished;families;31
+578;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51722;Baliwag Viejo;Finished;families;9
+584;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51722;Irayang Sulong;Finished;families;4
+590;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51722;Malitbog;Finished;families;8
+596;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51722;Antipolo;Finished;families;6
+602;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51722;Manapao;Finished;families;5
+608;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Bahao;Finished;families;3
+614;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Sulpa;Finished;families;1
+620;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Vito;Finished;families;1
+626;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Boboan;Finished;families;4
+632;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Malaconini;Finished;families;3
+638;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Tandoc;Finished;families;1
+644;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;San Ramon;Finished;families;1
+650;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Salvacion;Finished;families;8
+656;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Poblacion;Finished;families;8
+662;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Penitan;Finished;families;5
+668;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Homestead;Finished;families;2
+674;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51735;Pamintan - Santillan;Finished;families;2
+680;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Malbong;Finished;families;13
+686;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Nabuat;Finished;families;3
+692;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Sampaloc;Finished;families;9
+698;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Cagbunga;Finished;families;2
+704;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Dahilig;Finished;families;1
+710;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Loob;Finished;families;4
+716;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51713;Poblacion 2;Finished;families;3
+722;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51709;Dugcal;Finished;families;27
+728;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51718;Ibid;Finished;families;19
+734;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51718;Labao;Finished;families;10
+740;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;517;51718;Conception;Finished;families;14
+746;NZAid;Relief;Non Food Items;Sleeping Kit : Mats;1752;175202;Poblacion;Finished;families;43
+807;AusDFAT;Relief;Non Food Items;Sleeping Kit : Mats;1751;175101;;finished;families;200
+50;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;3;Finished;families;7
+74;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;4;Finished;families;13
+120;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56212;Matnog Church;Finished;families;90
+125;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;2;Finished;families;27
+133;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56212;Matnog Church;Finished;families;115
+141;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Brgy Dao;Finished;families;21
+148;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;Buenavista;Finished;families;32
+165;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Siuton;Finished;families;11
+169;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;5;Finished;families;36
+188;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Brgy. Cawit Proper;Finished;families;18
+204;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;541;54107;Buyo;Finished;families;42
+208;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;Marigodon;Finished;families;43
+214;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;Banawan;Finished;families;44
+229;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;Caratagan;Finished;families;51
+236;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Brgy. Pawik;Finished;families;24
+238;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;Malidong;Finished;families;56
+252;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;541;54107;San Ramon;Finished;families;69
+262;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;541;54107;Poblacion 4;Finished;families;94
+276;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Brgy. Aguada Norte;Finished;families;29
+279;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;1;Finished;families;88
+291;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Brgy. Caditaan;Finished;families;27
+293;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;541;54120;Pinamasingan;Finished;families;74
+299;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;541;54120;Laurente;Finished;families;92
+307;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Salvacion;Finished;families;33
+310;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;505;50513;Basicao;Finished;families;101
+328;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56211;Brgy. Cawit Ext.;Finished;families;39
+335;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;541;54120;Bocahica;Finished;families;120
+358;NZAid;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Cadandanan;Finished;families;2
+369;NZAid;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Roxas;Finished;families;4
+386;NZAid;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Cocok- Caditan;Finished;families;6
+419;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Palale;Finished;families;9
+426;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Zone 7;Finished;families;23
+433;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Daganas;Finished;families;27
+440;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56203;Lajong;Finished;families;96
+455;NZAid;Relief;Non Food Items;Sleeping Kit: Blankets;1752;175202;Conrazon;Finished;families;115
+460;NZAid;Relief;Non Food Items;Sleeping Kit: Blankets;1752;175202;Poblacion;Finished;families;43
+465;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;San Rafael;Finished;families;120
+471;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Banuyo;Finished;families;7
+477;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Banoyo;Finished;families;20
+483;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Marifosque;Finished;families;46
+489;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Binanuahan;Finished;families;29
+495;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Inabugan;Finished;families;72
+501;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Dapdap;Finished;families;74
+507;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;562;56213;Brgy Dao;Finished;families;3
+513;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51723;Lourdes Young;Finished;families;80
+519;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Santa Lotgarda;Finished;families;1
+525;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;New Poblacion;Finished;families;4
+531;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Barcelonita;Finished;families;6
+537;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;San Pedro;Finished;families;7
+543;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Biong;Finished;families;4
+549;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Camagong;Finished;families;19
+555;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Castillo;Finished;families;34
+561;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Pandan;Finished;families;27
+567;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51707;Sta Cruz;Finished;families;6
+573;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51725;Villaflorida;Finished;families;31
+579;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51722;Baliwag Viejo;Finished;families;9
+585;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51722;Irayang Sulong;Finished;families;4
+591;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51722;Malitbog;Finished;families;8
+597;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51722;Antipolo;Finished;families;6
+603;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51722;Manapao;Finished;families;5
+609;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Bahao;Finished;families;3
+615;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Sulpa;Finished;families;1
+621;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Vito;Finished;families;1
+627;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Boboan;Finished;families;4
+633;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Malaconini;Finished;families;3
+639;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Tandoc;Finished;families;1
+645;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;San Ramon;Finished;families;1
+651;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Salvacion;Finished;families;8
+657;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Poblacion;Finished;families;8
+663;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Penitan;Finished;families;5
+669;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Homestead;Finished;families;2
+675;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51735;Pamintan - Santillan;Finished;families;2
+681;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Malbong;Finished;families;13
+687;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Nabuat;Finished;families;3
+693;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Sampaloc;Finished;families;9
+699;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Cagbunga;Finished;families;2
+705;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Dahilig;Finished;families;1
+711;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Loob;Finished;families;4
+717;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51713;Poblacion 2;Finished;families;3
+723;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51709;Dugcal;Finished;families;27
+729;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51718;Ibid;Finished;families;19
+735;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51718;Labao;Finished;families;10
+741;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;517;51718;Conception;Finished;families;14
+747;NZAid;Relief;Non Food Items;Sleeping Kit: Blankets;1752;175202;Poblacion;Finished;families;43
+806;AusDFAT;Relief;Non Food Items;Sleeping Kit: Blankets;1751;175101;;finished;families;200
+52;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;3;Finished;families;7
+76;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;4;Finished;families;13
+122;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56212;Matnog Church;Finished;families;90
+127;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;2;Finished;families;27
+135;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56212;Matnog Church;Finished;families;115
+143;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Brgy Dao;Finished;families;21
+150;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;Buenavista;Finished;families;32
+167;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Siuton;Finished;families;11
+171;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;5;Finished;families;36
+190;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Brgy. Cawit Proper;Finished;families;18
+205;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;541;54107;Buyo;Finished;families;42
+210;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;Marigodon;Finished;families;43
+216;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;Banawan;Finished;families;44
+231;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;Caratagan;Finished;families;51
+240;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;Malidong;Finished;families;56
+253;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Brgy. Pawik;Finished;families;24
+259;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;541;54107;San Ramon;Finished;families;69
+263;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;541;54107;Poblacion 5;Finished;families;94
+281;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;1;Finished;families;88
+287;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Brgy. Aguada Norte;Finished;families;29
+294;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;541;54120;Pinamasingan;Finished;families;74
+300;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;541;54120;Laurente;Finished;families;92
+303;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Brgy. Caditaan;Finished;families;27
+312;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;505;50513;Basicao;Finished;families;101
+324;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Salvacion;Finished;families;33
+336;PRC- IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;541;54120;Bocahica;Finished;families;120
+338;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56211;Brgy. Cawit Ext.;Finished;families;39
+361;NZAid;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Cadandanan;Finished;families;2
+373;NZAid;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Roxas;Finished;families;4
+393;NZAid;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Cocok- Caditan;Finished;families;6
+421;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Palale;Finished;families;9
+428;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Zone 7;Finished;families;23
+435;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Daganas;Finished;families;27
+442;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56203;Lajong;Finished;families;96
+456;NZAid;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;1752;175202;Conrazon;Finished;families;115
+461;NZAid;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;1752;175202;Poblacion;Finished;families;43
+466;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;San Rafael;Finished;families;120
+472;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Banuyo;Finished;families;7
+478;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Banoyo;Finished;families;20
+484;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Marifosque;Finished;families;46
+490;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Binanuahan;Finished;families;29
+496;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Inabugan;Finished;families;72
+502;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Dapdap;Finished;families;74
+508;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;562;56213;Brgy Dao;Finished;families;3
+514;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51723;Lourdes Young;Finished;families;80
+520;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Santa Lotgarda;Finished;families;1
+526;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;New Poblacion;Finished;families;4
+532;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Barcelonita;Finished;families;6
+538;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;San Pedro;Finished;families;7
+544;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Biong;Finished;families;4
+550;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Camagong;Finished;families;19
+556;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Castillo;Finished;families;34
+562;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Pandan;Finished;families;27
+568;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51707;Sta Cruz;Finished;families;6
+574;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51725;Villaflorida;Finished;families;31
+580;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51722;Baliwag Viejo;Finished;families;9
+586;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51722;Irayang Sulong;Finished;families;4
+592;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51722;Malitbog;Finished;families;8
+598;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51722;Antipolo;Finished;families;6
+604;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51722;Manapao;Finished;families;5
+610;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Bahao;Finished;families;3
+616;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Sulpa;Finished;families;1
+622;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Vito;Finished;families;1
+628;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Boboan;Finished;families;4
+634;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Malaconini;Finished;families;3
+640;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Tandoc;Finished;families;1
+646;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;San Ramon;Finished;families;1
+652;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Salvacion;Finished;families;8
+658;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Poblacion;Finished;families;8
+664;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Penitan;Finished;families;5
+670;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Homestead;Finished;families;2
+676;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51735;Pamintan - Santillan;Finished;families;2
+682;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Malbong;Finished;families;13
+688;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Nabuat;Finished;families;3
+694;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Sampaloc;Finished;families;9
+700;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Cagbunga;Finished;families;2
+706;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Dahilig;Finished;families;1
+712;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Loob;Finished;families;4
+718;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51713;Poblacion 2;Finished;families;3
+724;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51709;Dugcal;Finished;families;27
+730;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51718;Ibid;Finished;families;19
+736;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51718;Labao;Finished;families;10
+742;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;517;51718;Conception;Finished;families;14
+748;NZAid;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;1752;175202;Poblacion;Finished;families;43
+808;AusDFAT;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;1751;175101;;finished;families;200
+55;IFRC;Relief;Shelter;Tarpaulin;505;50513;3;Finished;families;7
+79;IFRC;Relief;Shelter;Tarpaulin;505;50513;4;Finished;families;13
+130;IFRC;Relief;Shelter;Tarpaulin;505;50513;2;Finished;families;27
+132;IFRC;Relief;Shelter;Tarpaulin;562;56212;Matnog Church;Finished;families;90
+137;IFRC;Relief;Shelter;Tarpaulin;541;54107;Osmena;Finished;families;29
+139;IFRC;Relief;Shelter;Tarpaulin;562;56212;Matnog Church;Finished;families;115
+153;IFRC;Relief;Shelter;Tarpaulin;505;50513;Buenavista;Finished;families;32
+157;IFRC;Relief;Shelter;Tarpaulin;562;56213;Brgy Dao;Finished;families;21
+174;IFRC;Relief;Shelter;Tarpaulin;505;50513;5;Finished;families;36
+182;IFRC;Relief;Shelter;Tarpaulin;541;54107;Quezon;Finished;families;41
+187;IFRC;Relief;Shelter;Tarpaulin;562;56211;Siuton;Finished;families;11
+193;IFRC;Relief;Shelter;Tarpaulin;541;54107;Quezon;Finished;families;41
+195;IFRC;Relief;Shelter;Tarpaulin;541;54107;Buyo;Finished;families;42
+206;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54107;Penafrancia;Finished;families;61
+213;IFRC;Relief;Shelter;Tarpaulin;505;50513;Marigodon;Finished;families;43
+219;IFRC;Relief;Shelter;Tarpaulin;505;50513;Banawan;Finished;families;44
+234;IFRC;Relief;Shelter;Tarpaulin;505;50513;Caratagan;Finished;families;51
+235;IFRC;Relief;Shelter;Tarpaulin;562;56211;Brgy. Cawit Proper;Finished;families;18
+243;IFRC;Relief;Shelter;Tarpaulin;505;50513;Malidong;Finished;families;56
+246;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54107;San Ramon;Finished;families;69
+248;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54107;Nazareno;Finished;families;17
+269;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54120;Nazareno;Finished;families;25
+270;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54120;Penafrancia;Finished;families;61
+271;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54120;Pinamasingan;Finished;families;74
+274;IFRC;Relief;Shelter;Tarpaulin;562;56211;Brgy. Pawik;Finished;families;24
+284;IFRC;Relief;Shelter;Tarpaulin;505;50513;1;Finished;families;88
+290;IFRC;Relief;Shelter;Tarpaulin;562;56211;Brgy. Aguada Norte;Finished;families;29
+295;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54120;Pinamasingan;Finished;families;74
+301;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54120;Laurente;Finished;families;92
+306;IFRC;Relief;Shelter;Tarpaulin;562;56211;Brgy. Caditaan;Finished;families;27
+315;IFRC;Relief;Shelter;Tarpaulin;505;50513;Basicao;Finished;families;101
+327;IFRC;Relief;Shelter;Tarpaulin;562;56211;Salvacion;Finished;families;33
+337;PRC- IFRC;Relief;Shelter;Tarpaulin;541;54120;Bocahica;Finished;families;120
+343;IFRC;Relief;Shelter;Tarpaulin;562;56211;Brgy. Cawit Ext.;Finished;families;39
+362;NZAid;Relief;Shelter;Tarpaulin;562;56203;Cadandanan;Finished;families;2
+374;NZAid;Relief;Shelter;Tarpaulin;562;56203;Roxas;Finished;families;4
+394;NZAid;Relief;Shelter;Tarpaulin;562;56203;Cocok- Caditan;Finished;families;6
+417;PRC;Education;Education;Tarpaulin;505;50511;Maharang;Finished;individuals;120
+418;PRC;Education;Education;Tarpaulin;505;50511;Manumbalay;Finished;individuals;120
+422;IFRC;Relief;Shelter;Tarpaulin;562;56203;Palale;Finished;families;9
+429;IFRC;Relief;Shelter;Tarpaulin;562;56203;Zone 7;Finished;families;23
+436;IFRC;Relief;Shelter;Tarpaulin;562;56203;Daganas;Finished;families;27
+443;IFRC;Relief;Shelter;Tarpaulin;562;56203;Lajong;Finished;families;96
+467;AusDFAT;Relief;Shelter;Tarpaulin;562;56213;San Rafael;Finished;families;120
+473;IFRC;Relief;Shelter;Tarpaulin;562;56213;Banuyo;Finished;families;7
+479;IFRC;Relief;Shelter;Tarpaulin;562;56213;Banuyo;Finished;families;20
+485;IFRC;Relief;Shelter;Tarpaulin;562;56213;Marifosque;Finished;families;46
+491;IFRC;Relief;Shelter;Tarpaulin;562;56213;Binanuahan;Finished;families;29
+497;IFRC;Relief;Shelter;Tarpaulin;562;56213;Inabugan;Finished;families;72
+503;AusDFAT;Relief;Shelter;Tarpaulin;562;56213;Dapdap;Finished;families;74
+509;IFRC;Relief;Shelter;Tarpaulin;562;56213;Brgy Dao;Finished;families;3
+515;AusDFAT;Relief;Shelter;Tarpaulin;517;51723;Lourdes Young;Finished;families;80
+521;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Santa Lotgarda;Finished;families;1
+527;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;New Poblacion;Finished;families;4
+533;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Barcelonita;Finished;families;6
+539;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;San Pedro;Finished;families;7
+545;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Biong;Finished;families;4
+551;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Camagong;Finished;families;19
+557;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Castillo;Finished;families;34
+563;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Pandan;Finished;families;27
+569;AusDFAT;Relief;Shelter;Tarpaulin;517;51707;Sta Cruz;Finished;families;6
+575;AusDFAT;Relief;Shelter;Tarpaulin;517;51725;Villaflorida;Finished;families;31
+581;AusDFAT;Relief;Shelter;Tarpaulin;517;51722;Baliwag Viejo;Finished;families;9
+587;AusDFAT;Relief;Shelter;Tarpaulin;517;51722;Irayang Sulong;Finished;families;4
+593;AusDFAT;Relief;Shelter;Tarpaulin;517;51722;Malitbog;Finished;families;8
+599;AusDFAT;Relief;Shelter;Tarpaulin;517;51722;Antipolo;Finished;families;6
+605;AusDFAT;Relief;Shelter;Tarpaulin;517;51722;Manapao;Finished;families;5
+611;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Bahao;Finished;families;3
+617;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Sulpa;Finished;families;1
+623;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Vito;Finished;families;1
+629;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Boboan;Finished;families;4
+635;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Malaconini;Finished;families;3
+641;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Tandoc;Finished;families;1
+647;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;San Ramon;Finished;families;1
+653;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Salvacion;Finished;families;8
+659;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Poblacion;Finished;families;8
+665;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Penitan;Finished;families;5
+671;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Homestead;Finished;families;2
+677;AusDFAT;Relief;Shelter;Tarpaulin;517;51735;Pamintan - Santillan;Finished;families;2
+683;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Malbong;Finished;families;13
+689;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Nabuat;Finished;families;3
+695;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Sampaloc;Finished;families;9
+701;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Cagbunga;Finished;families;2
+707;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Dahilig;Finished;families;1
+713;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Loob;Finished;families;4
+719;AusDFAT;Relief;Shelter;Tarpaulin;517;51713;Poblacion 2;Finished;families;3
+725;AusDFAT;Relief;Shelter;Tarpaulin;517;51709;Dugcal;Finished;families;27
+731;AusDFAT;Relief;Shelter;Tarpaulin;517;51718;Ibid;Finished;families;19
+737;AusDFAT;Relief;Shelter;Tarpaulin;517;51718;Labao;Finished;families;10
+743;AusDFAT;Relief;Shelter;Tarpaulin;517;51718;Conception;Finished;families;14
+811;AusDFAT;Relief;Shelter;Tarpaulin;1751;175101;;finished;families;200
+12;PRC;Welfare;PSS;Tracing;505;50514;Balinad;Finished;individuals;1
+21;PRC;Welfare;PSS;Tracing;562;56215;San Sebastian;Finished;individuals;2
+22;PRC;Welfare;PSS;Tracing;562;56211;Aguada North;Finished;individuals;2
+23;PRC;Welfare;PSS;Tracing;505;50513;Basicao;Finished;individuals;2
+63;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;3000
+65;PRC;WASH;WASH;Water distribution;562;56212;Brgy Gadgaron;Finished;liters;3000
+66;PRC;WASH;WASH;Water distribution;562;56212;Various Brgys;Finished;liters;4000
+73;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;5000
+81;PRC;WASH;WASH;Water distribution;562;56212;Brgy. Sta Isabel;Finished;liters;4000
+90;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;5000
+91;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;3000
+103;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;3000
+104;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;5000
+106;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;1000
+108;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;2500
+110;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;1000
+111;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;2000
+112;PRC;WASH;WASH;Water distribution;562;56212;Brgy Camcaman;Finished;liters;6888
+114;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;2500
+140;PRC;WASH;WASH;Water distribution;562;56203;Brgy Butag;Finished;liters;11000
+159;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;6000
+162;PRC;WASH;WASH;Water distribution;562;56203;Brgy Butag;Finished;liters;10000
+164;PRC;WASH;WASH;Water distribution;562;56212;Brgy Sta Isabel;Finished;liters;11000
+179;PRC;WASH;WASH;Water distribution;517;51723;Bustrac;Finished;liters;10000
+344;PRC;WASH;WASH;Water distribution;562;56203;Brgy. San Isidro;Finished;liters;1000
+346;PRC;WASH;WASH;Water distribution;562;56203;Brgy Butag;Finished;liters;3000
+356;PRC;WASH;WASH;Water distribution;562;56203;Brgy. San Isidro;Finished;liters;1000
+398;PRC;WASH;WASH;Water distribution;505;50503;Bagumbayan;Finished;liters;6000
+399;PRC;WASH;WASH;Water distribution;505;50503;San Roque;Finished;liters;6000
+400;PRC;WASH;WASH;Water distribution;505;50503;Cullat;Finished;liters;4000
+401;PRC;WASH;WASH;Water distribution;505;50503;Busay;Finished;liters;4000
+402;PRC;WASH;WASH;Water distribution;505;50503;Bagumbayan;Finished;liters;6000
+403;PRC;WASH;WASH;Water distribution;505;50503;San Roque;Finished;liters;6000
+404;PRC;WASH;WASH;Water distribution;505;50503;Banag;Finished;liters;4000
+405;PRC;WASH;WASH;Water distribution;505;50503;Banag;Finished;liters;6000
+406;PRC;WASH;WASH;Water distribution;505;50503;Sagpon;Finished;liters;3000
+407;PRC;WASH;WASH;Water distribution;505;50503;Sagpon;Finished;liters;3000
+408;PRC;WASH;WASH;Water distribution;505;50503;Sagpon;Finished;liters;2000
+409;PRC;WASH;WASH;Water distribution;505;50503;Sagpon;Finished;liters;2000
+410;PRC;WASH;WASH;Water distribution;505;50503;Sagpon;Finished;liters;2000
+411;PRC;WASH;WASH;Water distribution;505;50501;Banag;Finished;liters;4000
+412;PRC;WASH;WASH;Water distribution;505;50501;Anislag;Finished;liters;4000
+413;PRC;WASH;WASH;Water distribution;505;50501;Anislag;Finished;liters;4000
+414;PRC;WASH;WASH;Water distribution;505;50501;Anislag;Finished;liters;4000
+415;PRC;WASH;WASH;Water distribution;505;50501;Arellano;Finished;liters;1000
+416;PRC;WASH;WASH;Water distribution;505;50501;Sagpon;Finished;liters;1000
+447;PRC;WASH;WASH;Water distribution;517;51703;Poblacion;Finished;liters;14000
+450;PRC;WASH;WASH;Water distribution;517;51716;Banao;Finished;liters;8000
+451;PRC;WASH;WASH;Water distribution;517;51716;San Nicolas;Finished;liters;4000
+64;PRC;WASH;WASH;Water Production;562;56212;Brgy Camcaman;Finished;liters;3000
+80;PRC;WASH;WASH;Water Production;562;56212;Brgy Camcaman;Finished;liters;5000
+105;PRC;WASH;WASH;Water Production;562;56212;Brgy Camcaman;Finished;liters;5000
+107;PRC;WASH;WASH;Water Production;562;56212;Brgy Camcaman;Finished;liters;1000
+109;PRC;WASH;WASH;Water Production;562;56212;Brgy Camcaman;Finished;liters;1000
+113;PRC;WASH;WASH;Water Production;562;56212;Brgy Sta Isabel;Finished;liters;2500
+9;PRC;Welfare;PSS;Welfare Desk;562;56215;San Sebastian;Finished;unit;1
+10;PRC;Welfare;PSS;Welfare Desk;562;56211;Aguada North;Finished;unit;1
+11;PRC;Welfare;PSS;Welfare Desk;562;56211;Cawit Extension;Finished;unit;1
+13;PRC;Welfare;PSS;Welfare Desk;505;50505;Bautista;Finished;unit;1
+14;PRC;Welfare;PSS;Welfare Desk;562;56209;;Finished;unit;1
+15;PRC;Welfare;PSS;Welfare Desk;505;50504;Maninila;Finished;unit;1
+26;PRC;Welfare;PSS;Welfare Desk;562;56207;Brgy Ogod;Finished;unit;1
+27;PRC;Welfare;PSS;Welfare Desk;562;56207;Brgy Ogod;Finished;unit;1
+28;PRC;Welfare;PSS;Welfare Desk;562;56207;Brgy Rawis;Finished;unit;1
+40;PRC;Welfare;PSS;Welfare Desk;562;56212;Brgy Banuang Daan;Finished;unit;1
